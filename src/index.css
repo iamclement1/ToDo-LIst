@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+  background: #000051;
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+  justify-content: flex;
+  justify-content: center;
+}
