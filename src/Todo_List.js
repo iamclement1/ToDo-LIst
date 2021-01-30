@@ -71,25 +71,6 @@ class TodoList extends Component {
       </div>
     );
   }
-  // render() {
-  //   return (
-  //     <div className="container-fluid">
-  //       <div className="row"></div>
-  //       <div className="col-md-12 subAdd">
-  //         <div className="header">
-  //           <form onSubmit={this.addItem}>
-  //             <button type="submit">-</button>
-  //             <input
-  //               ref={(a) => (this._inputElement = a)}
-  //               placeholder="enter number"
-  //             ></input>
-  //             <button type="submit">+</button>
-  //           </form>
-  //         </div>
-  //       </div>
-  //     </div>
-  //   );
-  // }
 }
 
 export default TodoList;
