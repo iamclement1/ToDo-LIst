@@ -52,7 +52,7 @@ class TodoList extends Component {
     return (
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-12 todoListMain">
+          <div className="col-md-4 todoListMain">
             <div className="header">
               <h2>My ToDo List</h2>
               <h5>Plan your Day</h5>
